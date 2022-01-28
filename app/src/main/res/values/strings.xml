@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="string_press_again_to_exit">Press again to exit</string>
+    <string name="string_internet_connection_not_stable">Internet connection is not stable</string>
+
+    <string name="API_KEY">w0f5L5GtXfiw3DGuIgz1sSFHqDkS0zV8</string>
+</resources>
